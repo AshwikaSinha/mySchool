@@ -114,3 +114,40 @@ img{
 .environment_li p
 {
   margin-top:10px;
+}
+#campusimages{
+    text-align: center;
+}
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+
+.modal-body
+{
+    text-align: center
+}
+img{
+    height: 300px;
+    width: 300px;
+}
